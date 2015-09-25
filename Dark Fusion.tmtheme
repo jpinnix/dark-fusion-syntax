@@ -574,7 +574,7 @@
 			<key>name</key>
 			<string>HTML: Doctype</string>
 			<key>scope</key>
-			<string>entity.name.tag.doctype.html, meta.tag.sgml.html, string.quoted.double.doctype.identifiers-and-DTDs.html</string>
+			<string>entity.name.tag.doctype.html, meta.tag.sgml.html, string.quoted.double.doctype.identifiers-and-DTDs.html, text.html.basic                              meta.tag.sgml.html                              meta.tag.sgml.doctype.html</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -641,7 +641,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#708284</string>
+				<string>#D5D2C3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -652,7 +652,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#708284</string>
+				<string>#63bfbf</string>
 			</dict>
 		</dict>
 		<dict>
@@ -689,7 +689,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#536871</string>
+				<string>#d5d2c3</string>
 			</dict>
 		</dict>
 		<dict>
