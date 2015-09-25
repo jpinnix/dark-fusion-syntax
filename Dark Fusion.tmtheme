@@ -1220,6 +1220,28 @@
 				<string>#63bfbf</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>ES6: object keys</string>
+			<key>scope</key>
+			<string>source.js                              meta.group.braces.curly                               meta.group.braces.curly                               constant.other.object.key.js                               string.unquoted.label.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#D5D2C3</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ES6: template strings</string>
+			<key>scope</key>
+			<string>punctuation.quasi.element.begin.js, punctuation.quasi.element.end.js, punctuation.definition.quasi.begin.js, punctuation.definition.quasi.end.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#bf4040</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>A4299D9B-1DE5-4BC4-87F6-A757E71B1597</string>
