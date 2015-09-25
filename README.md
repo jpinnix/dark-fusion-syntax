@@ -19,3 +19,7 @@ Port of [Atom's Dark Fusion Syntax](https://atom.io/themes/atom-dark-fusion-synt
 ### Python
 
 ![Python](https://raw.githubusercontent.com/paradox41/dark-fusion-syntax/master/screenshots/Python.png)
+
+## Settings
+
+Theme used is [Materialize Oceanic Next](https://github.com/saadq/Materialize)
