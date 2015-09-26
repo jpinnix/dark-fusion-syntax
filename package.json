@@ -1,0 +1,21 @@
+{
+  "name": "dark-fusion-syntax",
+  "version": "1.0.0",
+  "description": "Port of Atom's Dark Fusion Syntax",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paradox41/dark-fusion-syntax.git"
+  },
+  "keywords": [
+    "sublime",
+    "syntax",
+    "dark",
+    "atom"
+  ],
+  "author": "Will <will.soto9@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/paradox41/dark-fusion-syntax/issues"
+  },
+  "homepage": "https://github.com/paradox41/dark-fusion-syntax#readme"
+}
