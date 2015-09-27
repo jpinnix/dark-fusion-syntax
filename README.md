@@ -2,6 +2,16 @@
 
 Port of [Atom's Dark Fusion Syntax](https://atom.io/themes/atom-dark-fusion-syntax)
 
+## Installation
+
+### Via Package Control
+
+The easiest way to install is using [Sublime Package Control](https://packagecontrol.io/installation), just search for "Dark Fusion Color Scheme".
+
+1. Open Command Palette using menu item `Tools -> Command Palette...` (<kbd>⇧</kbd><kbd>⌘</kbd><kbd>P</kbd> on Mac)
+2. Choose `Package Control: Install Package`
+3. Find `Dark Fusion Color Scheme` and hit <kbd>Enter</kbd>
+
 ## Screenshots
 
 ### HTML
