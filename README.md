@@ -10,7 +10,7 @@ Port of [Atom's Dark Fusion Syntax](https://atom.io/themes/atom-dark-fusion-synt
 
 ### JavaScript (Babel)
 
-![JavaScript - Babel](https://raw.githubusercontent.com/paradox41/dark-fusion-syntax/master/screenshots/JavaScript%20(Babel).png)
+![JavaScript - Babel](https://raw.githubusercontent.com/paradox41/dark-fusion-syntax/master/screenshots/JavaScript - Babel.png)
 
 ### JavaScript
 
