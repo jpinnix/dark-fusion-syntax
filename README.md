@@ -1,4 +1,4 @@
-# Dark Fusion Syntax
+# [Dark Fusion Syntax](https://packagecontrol.io/packages/Dark%20Fusion%20Color%20Scheme)
 
 Port of [Atom's Dark Fusion Syntax](https://atom.io/themes/atom-dark-fusion-syntax)
 
