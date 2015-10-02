@@ -1242,6 +1242,28 @@
 				<string>#bf4040</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>ES6: constants (null, true, false, undefined)</string>
+			<key>scope</key>
+			<string>constant.language.boolean.true.js, constant.language.boolean.false.js, constant.language.undefined.js, constant.language.null.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#63BFBF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS: this</string>
+			<key>scope</key>
+			<string>variable.language.this.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#CC6666</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>A4299D9B-1DE5-4BC4-87F6-A757E71B1597</string>
