@@ -6,18 +6,8 @@ import tag from 'gulp-tag-version';
 import changelog from 'gulp-conventional-changelog';
 
 var config = {
-    importance: 'patch'
+    importance: 'minor'
 };
-
-function getImportance() {
-    return config.importance;
-}
-
-// function release(importance) {
-//     config.importance = importance;
-
-//     return gulp.series('bump', 'changelog', 'commit-release');
-// }
 
 gulp.task('changelog', function() {
     return gulp.src('CHANGELOG.md', {
@@ -47,23 +37,31 @@ gulp.task('commit-release', function() {
         .pipe(git.add({
             args: '-f -A'
         }))
-        .pipe(git.commit('chore(release): New ' + getImportance() + ' release'))
+        .pipe(git.commit(`chore(release): New ${getImportance()} release`))
         .pipe(filter('package.json'))
         .pipe(tag());
 });
 
 gulp.task('release:patch', function() {
-    return gulp.series(release());
+    return release();
 });
 
 gulp.task('release:minor', function() {
     config.importance = 'minor';
 
-    return gulp.series(release());
+    return release();
 });
 
 gulp.task('release:major', function() {
     config.importance = 'major';
 
-    return gulp.series(release());
+    return release();
 });
+
+function getImportance() {
+    return config.importance;
+}
+
+function release() {
+    return gulp.series('bump', 'changelog', 'commit-release');
+}
