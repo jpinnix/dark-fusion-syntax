@@ -1,3 +1,14 @@
+<a name="1.1.0"></a>
+# [1.1.0](https://github.com/paradox41/dark-fusion-syntax/compare/v1.0.2...v1.1.0) (2015-10-02)
+
+
+### Features
+
+* update colors for constants and this ([9b97fab](https://github.com/paradox41/dark-fusion-syntax/commit/9b97fab)), closes [#1](https://github.com/paradox41/dark-fusion-syntax/issues/1)
+* **gulp:** add gulp for release management ([0794cf0](https://github.com/paradox41/dark-fusion-syntax/commit/0794cf0))
+
+
+
 <a name="1.0.2"></a>
 ## [1.0.2](https://github.com/paradox41/dark-fusion-syntax/compare/v1.0.1...v1.0.2) (2015-09-27)
 
