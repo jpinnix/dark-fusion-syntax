@@ -5,9 +5,19 @@ import filter from 'gulp-filter';
 import tag from 'gulp-tag-version';
 import changelog from 'gulp-conventional-changelog';
 
+import runSequence from 'run-sequence';
+
 var config = {
     importance: 'minor'
 };
+
+function getImportance() {
+    return config.importance;
+}
+
+function release() {
+    return runSequence('bump', 'changelog', 'commit-release');
+}
 
 gulp.task('changelog', function() {
     return gulp.src('CHANGELOG.md', {
@@ -57,11 +67,3 @@ gulp.task('release:major', function() {
 
     return release();
 });
-
-function getImportance() {
-    return config.importance;
-}
-
-function release() {
-    return gulp.series('bump', 'changelog', 'commit-release');
-}
