@@ -1,3 +1,14 @@
+<a name="1.2.0"></a>
+# [1.2.0](https://github.com/paradox41/dark-fusion-syntax/compare/v1.1.0...v1.2.0) (2015-10-13)
+
+
+### Bug Fixes
+
+* **gulp:** clean up gulpfile ([52a3fd5](https://github.com/paradox41/dark-fusion-syntax/commit/52a3fd5))
+* adjust string color for ES6 quoted strings ([effd890](https://github.com/paradox41/dark-fusion-syntax/commit/effd890))
+
+
+
 <a name="1.1.0"></a>
 # [1.1.0](https://github.com/paradox41/dark-fusion-syntax/compare/v1.0.2...v1.1.0) (2015-10-02)
 
