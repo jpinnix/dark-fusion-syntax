@@ -324,7 +324,7 @@
 			<key>name</key>
 			<string>Quoted String</string>
 			<key>scope</key>
-			<string>string.quoted.double, string.quoted.single</string>
+			<string>string.quoted.double, string.quoted.single, string.quoted.js</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
