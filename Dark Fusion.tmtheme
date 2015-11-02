@@ -1224,7 +1224,7 @@
 			<key>name</key>
 			<string>ES6: object keys</string>
 			<key>scope</key>
-			<string>source.js meta.group.braces.curly meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js</string>
+			<string>string.unquoted.label.js</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
