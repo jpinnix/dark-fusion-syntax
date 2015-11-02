@@ -1,3 +1,13 @@
+<a name="1.4.0"></a>
+# [1.4.0](https://github.com/paradox41/dark-fusion-syntax/compare/v1.3.0...v1.4.0) (2015-11-02)
+
+
+### Features
+
+* **yaml:** add color for yaml unquoted string ([c27bf58](https://github.com/paradox41/dark-fusion-syntax/commit/c27bf58))
+
+
+
 <a name="1.3.0"></a>
 # [1.3.0](https://github.com/paradox41/dark-fusion-syntax/compare/v1.2.0...v1.3.0) (2015-11-02)
 
