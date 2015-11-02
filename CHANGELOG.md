@@ -1,3 +1,14 @@
+<a name="1.3.0"></a>
+# [1.3.0](https://github.com/paradox41/dark-fusion-syntax/compare/v1.2.0...v1.3.0) (2015-11-02)
+
+
+### Bug Fixes
+
+* **gulp:** use gulp 3.9 ([1f29884](https://github.com/paradox41/dark-fusion-syntax/commit/1f29884))
+* fix unquoted object keys ([a63fef3](https://github.com/paradox41/dark-fusion-syntax/commit/a63fef3))
+
+
+
 <a name="1.2.0"></a>
 # [1.2.0](https://github.com/paradox41/dark-fusion-syntax/compare/v1.1.0...v1.2.0) (2015-10-13)
 
