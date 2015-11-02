@@ -1264,6 +1264,17 @@
 				<string>#CC6666</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>YAML: unqoted string</string>
+			<key>scope</key>
+			<string>string.unquoted.yaml</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#D5D2C3</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>A4299D9B-1DE5-4BC4-87F6-A757E71B1597</string>
