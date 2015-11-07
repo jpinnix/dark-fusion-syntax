@@ -324,7 +324,7 @@
 			<key>name</key>
 			<string>Quoted String</string>
 			<key>scope</key>
-			<string>string.quoted.double, string.quoted.single, string.quoted.js</string>
+			<string>string.quoted.double, string.quoted.single, string.quoted.js, string.double.ts, string.single.ts, string.interpolated.js</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -1266,13 +1266,24 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>YAML: unqoted string</string>
+			<string>YAML: unquoted string</string>
 			<key>scope</key>
 			<string>string.unquoted.yaml</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#D5D2C3</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TypeScript: quoted string</string>
+			<key>scope</key>
+			<string>string.single.ts, string.double.ts</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#d9c28c</string>
 			</dict>
 		</dict>
 	</array>
