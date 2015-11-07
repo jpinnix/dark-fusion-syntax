@@ -1,3 +1,13 @@
+<a name="1.5.0"></a>
+# [1.5.0](https://github.com/paradox41/dark-fusion-syntax/compare/v1.4.0...v1.5.0) (2015-11-07)
+
+
+### Features
+
+* change color JS template strings and TS imports ([002b0eb](https://github.com/paradox41/dark-fusion-syntax/commit/002b0eb))
+
+
+
 <a name="1.4.0"></a>
 # [1.4.0](https://github.com/paradox41/dark-fusion-syntax/compare/v1.3.0...v1.4.0) (2015-11-02)
 
